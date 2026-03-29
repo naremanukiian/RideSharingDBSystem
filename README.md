@@ -30,6 +30,7 @@
 
 - [Overview](#overview)
 - [Quick Start](#quick-start)
+- [Project Report & Documentation](#project-report--documentation)
 - [Database Schema](#database-schema)
 - [What's Inside the Script](#whats-inside-the-script)
 - [DDL — Tables](#section-1-ddl--tables)
@@ -92,6 +93,25 @@ This means it is safe to run multiple times without manual cleanup.
 ```
 DDL → DML → Indexes → Views → Triggers → Stored Procedures → DQL → DCL
 ```
+
+---
+
+## 📄 Project Report & Documentation
+
+A full technical report is included in this repository:
+
+**[📥 Download project_report.docx](project_report.docx)**
+
+The report is a complete structured document covering all four stages of the database development process:
+
+| Section | Contents |
+|---------|----------|
+| **1 — Conceptual Design** | Problem description and requirements analysis · main data objects and business rules · use-case, activity, and sequence diagrams |
+| **2 — Logical Design** | Entity-Relationship (ER) diagram · entities, attributes, and relationships · cardinalities and constraints · relational schema transformation · normalisation (1NF, 2NF, 3NF) · 30 relational algebra query demonstrations with formal notation |
+| **3 — Physical Implementation** | Full DDL, DML, DQL, and DCL documentation · views, indexes, triggers, and stored procedures documented with code samples and explanations · database deployment description |
+| **4 — Conclusions** | Key technical decisions with justifications · requirements coverage summary · project results |
+
+**Document stats:** 1,632 paragraphs · syntax-highlighted code frames · embedded ER diagram · formal algebra expressions (σ π ⋈ γ ∪ ∩ −)
 
 ---
 
