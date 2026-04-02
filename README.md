@@ -15,7 +15,7 @@
 
 <br/>
 
-**[🌐 View Interactive Dashboard →](https://naremanukiian.github.io/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[💻 Dashboard Repository →](https://github.com/naremanukiian/RideShareDBWeb)**
+**[🌐 View Interactive Dashboard →](https://naremanukiian.github.io/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[💻 Dashboard Repository →](https://github.com/naremanukiian/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[📃 Report →](https://docs.google.com/document/d/19k7KfxrFsW4q_EVF5ulUejnvyKzXtTeCNDNG_qmYrm8/edit?usp=sharing)
 
 <br/>
 
