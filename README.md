@@ -30,7 +30,7 @@
 
 - [Overview](#overview)
 - [Quick Start](#quick-start)
-- [Project Report & Documentation](#project-report-and-documentation)
+- [Project Report & Documentation](#project-report--documentation)
 - [Database Schema](#database-schema)
 - [What's Inside the Script](#whats-inside-the-script)
 - [DDL — Tables](#section-1-ddl--tables)
