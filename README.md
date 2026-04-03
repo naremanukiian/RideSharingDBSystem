@@ -96,7 +96,7 @@ DDL → DML → Indexes → Views → Triggers → Stored Procedures → DQL →
 
 ---
 
-## 📄 Project Report & Documentation
+## Project Report & Documentation
 
 A full technical report is included in this repository:
 
