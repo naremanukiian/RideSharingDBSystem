@@ -15,7 +15,7 @@
 
 <br/>
 
-**[🌐 View Interactive Dashboard →](https://naremanukiian.github.io/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[💻 Dashboard Repository →](https://github.com/naremanukiian/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📃 Report →](https://docs.google.com/document/d/19k7KfxrFsW4q_EVF5ulUejnvyKzXtTeCNDNG_qmYrm8/edit?usp=sharing)
+**[🌐 View Interactive Dashboard →](https://naremanukiian.github.io/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[💻 Dashboard Repository →](https://github.com/naremanukiian/RideShareDBWeb)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📃 Report →](https://docs.google.com/document/d/1zmyeTtoVEenXEx7KTmmGySSU9eXo7W9a4OWNNQvIlDI/edit?usp=sharing)
 
 <br/>
 
@@ -100,7 +100,7 @@ DDL → DML → Indexes → Views → Triggers → Stored Procedures → DQL →
 
 A full technical report is included in this repository:
 
-**[📥 Download project_report.docx](project_report.docx)** or **[👆🏻 Just click here](https://docs.google.com/document/d/19k7KfxrFsW4q_EVF5ulUejnvyKzXtTeCNDNG_qmYrm8/edit?usp=sharing)**
+**[📥 Download project_report.docx](project_report.docx)** or **[👆🏻 Just click here](https://docs.google.com/document/d/1zmyeTtoVEenXEx7KTmmGySSU9eXo7W9a4OWNNQvIlDI/edit?usp=sharing)**
 
 The report is a complete structured document covering all four stages of the database development process:
 
