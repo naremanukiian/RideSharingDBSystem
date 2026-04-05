@@ -103,15 +103,16 @@ A full technical report is included in this repository:
 **[📥 Download project_report.pdf](project_report.pdf)** or **[👆🏻 Just click here](https://docs.google.com/document/d/1zmyeTtoVEenXEx7KTmmGySSU9eXo7W9a4OWNNQvIlDI/edit?usp=sharing)**
 
 The report is a complete structured document covering all four stages of the database development process:
-
+ 
 | Section | Contents |
 |---------|----------|
 | **1 — Conceptual Design** | Problem description and requirements analysis · main data objects and business rules · use-case, activity, and sequence diagrams |
 | **2 — Logical Design** | Entity-Relationship (ER) diagram · entities, attributes, and relationships · cardinalities and constraints · relational schema transformation · normalisation (1NF, 2NF, 3NF) · 30 relational algebra query demonstrations with formal notation |
 | **3 — Physical Implementation** | Full DDL, DML, DQL, and DCL documentation · views, indexes, triggers, and stored procedures documented with code samples and explanations · database deployment description |
 | **4 — Conclusions** | Key technical decisions with justifications · requirements coverage summary · project results |
-
-**Document stats:** 1,632 paragraphs · syntax-highlighted code frames · embedded ER diagram · formal algebra expressions (σ π ⋈ γ ∪ ∩ −)
+| **5 — Web Dashboard & Deployment** | Interactive role-based web dashboard · Supabase PostgreSQL live backend · GitHub Pages deployment · system architecture and file structure · per-role view documentation (Passenger, Driver, Analyst, DBA) · Supabase REST API integration · technical decisions and justifications |
+ 
+**Document stats:** 1,867 paragraphs · syntax-highlighted code frames · embedded ER diagram · formal algebra expressions (σ π ⋈ γ ∪ ∩ −)
 
 ---
 
